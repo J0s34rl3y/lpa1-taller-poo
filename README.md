@@ -24,7 +24,7 @@ Este proyecto es un taller práctico para aplicar los conceptos de Programación
 
 ## Autor
 
-[@tu_cuenta_github]
+[@J0s34rl3y]
 
 ## Buenas Prácticas y Workflow Moderno * **Código Limpio**: 
 * Fomentar el uso de nombres descriptivos, comentarios claros y una estructura de código coherente.
